@@ -1,4 +1,4 @@
-# climb-jin
+# climb
 
 A [workflowr][] project.
 
